@@ -1,0 +1,27 @@
+{
+  "name": "ceccoff-links",
+  "version": "1.0.0",
+  "description": "CeccoffLinks by Diguya",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc -w",
+    "type": "tsc --noEmit",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiguyaDeveloper/diego-ceccon-links.git"
+  },
+  "author": "DiguyaDeveloper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiguyaDeveloper/diego-ceccon-links/issues"
+  },
+  "homepage": "https://github.com/DiguyaDeveloper/diego-ceccon-links#readme",
+  "devDependencies": {
+    "tsc": "^2.0.4"
+  },
+  "dependencies": {
+    "typescript": "^5.3.2"
+  }
+}
